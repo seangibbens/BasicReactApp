@@ -2,6 +2,10 @@
   "name": "basic_react_app",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seangibbens/BasicReactApp.git"
+  },
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
